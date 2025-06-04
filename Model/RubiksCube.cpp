@@ -1,4 +1,10 @@
+// #include <iostream>
+// using std::cout;
+// using std::endl;
+
 #include "RubiksCube.h"
+#include <bits/stdc++.h>
+using namespace std;
 
 // Return the first letter of a color (e.g., 'G' for GREEN).
 char RubiksCube::getColorLetter(COLOR color) {
